@@ -1,0 +1,20 @@
+{
+  "name": "tailwindcss-template-prototype",
+  "version": "1.0.0",
+  "description": "tailwind testing and template prototyping",
+  "main": "package.json",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "nodesass": "0.0.2-security",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Thorsten Weber",
+  "license": "MIT"
+}
